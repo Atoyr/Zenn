@@ -1,0 +1,11 @@
+{
+  "name": "Zenn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Atoyr/Zenn.git",
+  "author": "UCHIYAMA Ryota <lessironglance@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "zenn-cli": "^0.1.153"
+  }
+}
